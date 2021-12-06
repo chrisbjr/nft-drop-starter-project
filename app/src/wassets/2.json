@@ -1,0 +1,29 @@
+{
+  "name": "Macallan",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "ADS7wRkH2FukdQxU5C2rEvUsuUjcy4iYoCXGdUoaNvmZ",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "brand",
+      "value": "Macallan"
+    }
+  ],
+  "collection": {
+    "name": "Solana Whiskey Collection",
+    "family": "Solana Whiskey Collection"
+  }
+}

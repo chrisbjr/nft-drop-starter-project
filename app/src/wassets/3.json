@@ -1,0 +1,29 @@
+{
+  "name": "Springbank",
+  "symbol": "",
+  "image": "3.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "ADS7wRkH2FukdQxU5C2rEvUsuUjcy4iYoCXGdUoaNvmZ",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "brand",
+      "value": "Springbank"
+    }
+  ],
+  "collection": {
+    "name": "Solana Whiskey Collection",
+    "family": "Solana Whiskey Collection"
+  }
+}
